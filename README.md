@@ -1,2 +1,2 @@
 # Architecture-logicielle
-Contient tout les TP au fur et à mesure
+Contient tout les TPs au fur et à mesure
